@@ -1,0 +1,10 @@
+[package]
+name = "SigmaOS-oci-distribution-specification"
+version = "0.1.0"
+edition = "2021"
+license = "Apache-2.0"
+description = "SigmaOS oci-distribution-specification component - virtualization"
+
+[lib]
+name = "oci_distribution_specification"
+path = "src/lib.rs"
