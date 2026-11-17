@@ -3,7 +3,7 @@ name = "SigmaOS-oci-distribution-specification"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "oci-distribution-specification component"
+description = "OCI Distribution Specification"
 upstream = []
 
 [contract]
